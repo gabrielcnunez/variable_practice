@@ -4,3 +4,6 @@ current_occupation = "Account Servicing Manager"
 current_age = 40
 years_married = 2
 number_of_siblings = 5
+pocket_change = 0.81
+career_batting_average = .335
+percentage_of_year_over = .5178
