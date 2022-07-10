@@ -9,4 +9,4 @@ career_batting_average = .335
 percentage_of_year_over = .5178
 traveled_to_england = false
 traveled_to_costa_rica = true
-completed_data_types_lesson = false
+completed_data_types_lesson = true
